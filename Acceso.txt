@@ -1,0 +1,7 @@
+El Usuario de Acceso es : oscar
+contraseña: 123
+-------------------
+
+Una vez dentro en gestión de login, puede agregar su propio ususario y contraseña, este se guarda automáticamente en la base de datos.
+También puede editar los ya existentes o eliminarlos.
+Los usuarios están basados por Roles, asegurece de tener el usuario admin para tener acceso total al proyecto.
